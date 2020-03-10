@@ -1,0 +1,11 @@
+*.jpg
+*.FCStd
+*.FCStd1
+*.blend
+*.blend1
+*.zip
+*.bz2
+*bak
+GERBER/
+bom/
+fp-info-cache
